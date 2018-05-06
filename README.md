@@ -1,5 +1,6 @@
 # project2.0
 
+
 Big picture
 
 This website has coupons and clothes varied over multiple sites so the customer can actually save money. The customer can save money by having access to the coupons and they will also be able to save money by comparing the same product over multiple brands.
